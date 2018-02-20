@@ -1,0 +1,56 @@
+itemGroup.virtualmachines.creativeTab=Maquinas Virtuais
+
+tile.virtualmachines.farm.name=Fazenda Virtual
+tile.virtualmachines.fishery.name=Pescaria Virtual
+tile.virtualmachines.dark_room.name=Quarto Escuro Virtual
+tile.virtualmachines.animal_farm.name=Fazenda de Animais Virtual
+
+item.virtualmachines.material.virtual_machine_core_empty.name=Núcleo de Maquina Virtual (Vazia)
+item.virtualmachines.material.virtual_machine_core_filled.name=Núcleo de Maquina Virtual (Cheia)
+item.virtualmachines.material.virtual_machine_core_flux.name=Núcleo de Maquina Virtual
+
+item.virtualmachines.augment.machineFarmSoil.name=Virtualização de Solo
+item.virtualmachines.augment.machineExperience.name=Materialização de Experiência
+item.virtualmachines.augment.machineNether.name=Simulador de Nether
+item.virtualmachines.augment.machineRancher.name=Rancho Indústrial
+item.virtualmachines.augment.machinePermamorb.name=Perma-Morb Induzido
+
+gui.virtualmachines.farm.modeLocked=Slot de Semente Travado
+gui.virtualmachines.farm.modeUnlocked=Slot de Semente Destravado
+
+info.virtualmachines.farm=Semea plantas virtualmente.
+info.virtualmachines.fishery=Pesca peixes virtualmente.
+info.virtualmachines.dark_room=Virtualmente mata mobs em um Quarto Escuro.
+info.virtualmachines.animal_farm=Fazenda virtual de animais.
+
+info.virtualmachines.augment.machineFarmSoil.0=Maquina Virtuais: Especialização
+info.virtualmachines.augment.machineFarmSoil.a.0=Semea plantas independentemente do requimento do solo.
+info.virtualmachines.augment.machineExperience.0=Maquina Virtuais: Especialização
+info.virtualmachines.augment.machineExperience.a.0=Permite a coleta de experiência dos mobs.
+info.virtualmachines.augment.machineExperience.b.0=Energia adicional será necessária para cada operaçâo.
+info.virtualmachines.augment.machineNether.0=Maquinas Virtuais: Funcionalidade
+info.virtualmachines.augment.machineNether.a.0=Simula o Nether.
+info.virtualmachines.augment.machineNether.b.0=Energia adicional será necessária para cada operaçâo.
+info.virtualmachines.augment.machineRancher.0=Maquina Virtuais: Especialização
+info.virtualmachines.augment.machineRancher.a.0=Obtem drops especiais de animais invéz de normais.
+info.virtualmachines.augment.machinePermamorb.0=Maquinas Virtuais: Funcionalidade
+info.virtualmachines.augment.machinePermamorb.a.0=Permite uso infinito de animais.
+info.virtualmachines.augment.machinePermamorb.b.0=MUITA energia adicional será necessária para cada operaçâo.
+
+tab.virtualmachines.machine.farm=Fazenda Virtual
+tab.virtualmachines.machine.fishery=Pescaria Virtual
+tab.virtualmachines.machine.dark_room=Quarto Escuro Virtual
+tab.virtualmachines.machine.animal_farm=Fazenda de Animais Virtual
+
+tab.virtualmachines.machine.farm.0=Virtualmente semea plantas e mudas.
+tab.virtualmachines.machine.farm.1=Fertilizante é opcional, acelera as operações.
+tab.virtualmachines.machine.farm.2=Nenhuma atualização de bloco desordenado é necessária!
+tab.virtualmachines.machine.fishery.0=Virtualmente pesca por coisas.
+tab.virtualmachines.machine.fishery.1=Isca é opcional, acelera as operações.
+tab.virtualmachines.machine.fishery.2=Poderia querer filtrar o lixo.
+tab.virtualmachines.machine.dark_room.0=Virtualmente spawns e mata mobs que dará spawn em um Quarto Escuro.
+tab.virtualmachines.machine.dark_room.1=Muda spawn para o Nether.
+tab.virtualmachines.machine.dark_room.2=Basicamente um Exterminador automático que mira em caras maus.
+tab.virtualmachines.machine.animal_farm.0=Virtualmente cuida e abate animais (em morbs).
+tab.virtualmachines.machine.animal_farm.1=Super avançado e melhorável.
+tab.virtualmachines.machine.animal_farm.2=Não mais esperar para o bebês crescerem.
